@@ -7,3 +7,4 @@ The theme for my dataset is the musical 'The Phantom of the Opera' by Andrew Llo
 
 ### Descriptive Data
 
+Most of the descriptive data about this musical can be found on music streaming platforms such as TIDAL and Spotify. However, the descriptive data available is in some ways unique depending on the streaming platform used. Whilst both TIDAL and Spotify have the basic descriptive data such as title of the album, the individiual titles of songs, the specific cast on that recording, the year of release and the duration of song, TIDAL provides further descriptive data such as the names of all the members of the orchestra as well as the singers, those behind the mixing of the recording and the 
