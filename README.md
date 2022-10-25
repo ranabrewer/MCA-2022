@@ -1,7 +1,8 @@
 # Rana's Final Project MCA
 
-| Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9| Week 10 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9| Week 10 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+
 ## Week 1
 
 The theme for my dataset is the musical 'The Phantom of the Opera' by Andrew Lloyd Webber. The musical premiered in 1986 at Her Majesty's Theatre in London and is based on the 1909 novel Le Fantôme de l'Opéra by French author Gaston Leroux. It went on to open on Broadway in New York City in 1988 and is currently the longest running show in Broadway history. However, it was announced on September 18th 2022 that the show's Broadway run would be coming to an end in February 2023. The plot takes place in the Palais Garnier (Paris Opera House) across the late 19th and early 20th centuries and follows the story of the up and coming soprano singer Christinne Daaé	who is sought after by the titular Phantom of the Opera house whilst herself falling for the Viscount Raoul de Chagny (whom reciprocates the feeling). I have selected this for my theme as I am interested in exploring the musical data available for musical theatre as well as being a fan of this musical. The tasks of Week 1 involve investigating the descriptive, notated and acoustic data available for The Phantom of the Opera and addressing any challenges that arise when working with musical data.
