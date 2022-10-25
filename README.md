@@ -1,7 +1,14 @@
 # Rana's Final Project MCA
 
-Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9| Week 10 
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Kitchen Cleanup Rotation
+
+| Month    | Assignee | Backup |
+| -------- | -------- | ------ |
+| January  | Dave     | Steve  |
+| February | Gregg    | Karen  |
+| March    | Diane    | Jorge  |
+
+
 
 ## Week 1
 
