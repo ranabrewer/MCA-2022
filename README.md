@@ -1,6 +1,6 @@
 # Rana's Final Project MCA
 
-| Week 1 [https://ranabrewer.github.io/MCA-2022/] | Week 2 | Week 3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9 | Week 10 |
+| [Week 1](https://ranabrewer.github.io/MCA-2022/) | Week 2 | Week 3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9 | Week 10 |
 | ------| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
 
 # Week 1
