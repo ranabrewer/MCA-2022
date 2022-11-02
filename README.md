@@ -34,4 +34,4 @@ This week's task involved identifying a piece of music from our chosen dataset, 
 # Week 3
 
 There were two tasks to be completed this week. The first task required generating both MusicXML and MEI files of the transcription that was created last week. 
-The MusicXML file of 'Think Of Me' can be accessed [here](
+The MusicXML file of 'Think Of Me' can be accessed [here](https://github.com/ranabrewer/MCA-2022/blob/master/Lab%20Tasks/Week%203/Think%20of%20Me.mei)
