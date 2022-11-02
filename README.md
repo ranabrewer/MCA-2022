@@ -31,3 +31,7 @@ This week's task involved identifying a piece of music from our chosen dataset, 
 ![Think of Me-5](https://user-images.githubusercontent.com/114150400/199590929-6403c148-08a5-4cec-8b3e-025af5f6d078.png)
 ![Think of Me-6](https://user-images.githubusercontent.com/114150400/199590938-8021f05f-eb0c-47a2-93a5-a3c7c32037dc.png)
 
+# Week 3
+
+There were two tasks to be completed this week. The first task required generating both MusicXML and MEI files of the transcription that was created last week. 
+The MusicXML file of 'Think Of Me' can be accessed [here](
