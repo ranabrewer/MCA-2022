@@ -22,10 +22,7 @@ User WebbLi3b3 uploaded a collection of [Musical Theatre Sheet Music Scores](htt
 
 # Week 2 
 
-This week's task involved identifying a piece of music from our chosen dataset, downloading a PDF of said music and editing it in the music compositional software MuseScore. I decided to use one of the most popular and well known songs from The Phantom of the Opera - 'Think Of Me'.
-
-Below are screenshots of my transcription as well as a link to a PDF of it. [Think of Me.pdf](https://github.com/ranabrewer/MCA-2022/files/9923761/Think.of.Me.pdf)
-
+This week's task involved identifying a piece of music from our chosen dataset, downloading a PDF of said music and editing it in the music compositional software MuseScore. I decided to use one of the most popular and well known songs from The Phantom of the Opera - 'Think Of Me'. Below are screenshots of my transcription as well as a link to a PDF of it. [Think of Me.pdf](https://github.com/ranabrewer/MCA-2022/files/9923761/Think.of.Me.pdf)
 
 ![Think of Me-1](https://user-images.githubusercontent.com/114150400/199590877-30953005-701f-4d40-8c59-b4463520b349.png)
 ![Think of Me-2](https://user-images.githubusercontent.com/114150400/199590894-8bbdb673-0d5b-41ba-9cff-0e6eb080a423.png)
