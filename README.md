@@ -19,3 +19,9 @@ User WebbLi3b3 uploaded a collection of [Musical Theatre Sheet Music Scores](htt
 ### Acoustic Data
 
 [Internet Archive](https://archive.org/search.php?query=phantom+of+the+opera&and[]=mediatype%3A%22audio%22) also holds various recordings from many of the casts of Phantom across many years. As mentioned in the descriptive data section, there are a number of cast recordings from different years and countries across the music streaming servies as well as a selection of covers of some of the most popular songs from the musical by different artists. There is also an official YouTube channel for Phantom which has a mixture of content including clips from numerous live performances as well as the 2004 movie. However, there are very few full performances online besides some amateur university/high school renditions due to the tight restrictions around bootlegging any musical. 
+
+# Week 2 
+
+This week's task involved identifying a piece of music from our chosen dataset, downloading a PDF of said music and editing it in the music compositional software MuseScore. I decided to use one of the most popular and well known songs from The Phantom of the Opera - 'Think Of Me'.
+
+![Think of Me 1](C:\Users\Rana\Desktop\Music Curation\Think of Me 1.jpg)
