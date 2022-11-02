@@ -1,6 +1,6 @@
 # Rana's Final Project MCA
 
-[WEEK 1](https://ranabrewer.github.io/MCA-2022/) | [WEEK 2](https://github.com/ranabrewer/MCA-2022//LabTasks/Week2/week2.html) | 
+[WEEK 1](https://ranabrewer.github.io/MCA-2022/) | [WEEK 2](https://github.com/ranabrewer/MCA-2022/Lab Tasks/Week 2/week2.html) | 
 
 # Week 1
 
