@@ -12,6 +12,7 @@
             <respStmt>
                <resp>Encoded by</resp>
                <resp>Rana Brewer</resp>
+               </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-11-02" type="encoding-date">2022-11-02</date>
          </pubStmt>
