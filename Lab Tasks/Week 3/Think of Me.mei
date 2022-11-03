@@ -1,12 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title />
-            <respStmt />
+            <title>Think of Me</title>
+            <title type="subtitle">
+            <composer>Andrew Lloyd Webber</composer>
+               <lyricists>Charles Hart and Richard Stilgoe</lyricists>
+            </title>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <resp>Rana Brewer</resp>
          </titleStmt>
          <pubStmt><date isodate="2022-11-02" type="encoding-date">2022-11-02</date>
          </pubStmt>
