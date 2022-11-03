@@ -39,3 +39,27 @@ The MusicXML file of 'Think Of Me' can be accessed [here](https://github.com/ran
 The second task required rendering the MEI file into verovio which can be viewed [here](https://ranabrewer.github.io/MCA-2022/verovio.html). A screenshot of the verovio rendering can also be seen below.
 
 ![Screenshot 2022-11-02 202521](https://user-images.githubusercontent.com/114150400/199595576-8161c170-0989-44d1-b9d9-d00d566f10eb.jpg)
+
+# Week 4
+
+The tasks for this week involved creating a jSymbolic report for my encoded music and then using this information to generate both a piano roll and pitch histogram of 'Think Of Me' using the Python notebook.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Week 5
