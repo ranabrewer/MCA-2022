@@ -106,12 +106,21 @@ For this week, we had to identify 3 music tracks relating to our theme that idea
 
 After selecting the tracks and identifying the features, we then had to generate a waveform and a spectogram of each of the songs.
 
-![Notes/Prima Donna waveform](https://user-images.githubusercontent.com/114150400/203163988-09aed882-fd1d-44f3-b603-ed74a012d61e.png)
-![Notes/Prima Donna spectogram](https://user-images.githubusercontent.com/114150400/203164016-b521593b-9ec5-429b-aaf4-3ef2593c5de6.png)
+### Prima Donna Waveform
+![prima donna wav](https://user-images.githubusercontent.com/114150400/203163988-09aed882-fd1d-44f3-b603-ed74a012d61e.png)
 
-![The Point of No Return waveform](https://user-images.githubusercontent.com/114150400/203164100-d7fff0d5-12e4-42c0-93c6-bfd848829988.png)
-![The Point of No Return spectogram](https://user-images.githubusercontent.com/114150400/203164262-5830b730-d1b8-45a0-b362-9316a5002e98.png)
+### Prima Donna Spectogram
+![prima donna](https://user-images.githubusercontent.com/114150400/203164016-b521593b-9ec5-429b-aaf4-3ef2593c5de6.png)
 
-![The Phantom of the Opera waveform](https://user-images.githubusercontent.com/114150400/203164329-ffcd69a4-d48a-4ba1-a238-6bf42d41b286.png)
-![The Phantom of the Opera spectogram](https://user-images.githubusercontent.com/114150400/203164374-980c3043-7c51-4ffe-b616-218e45e9b42a.png)
+### The Point of No Return waveform
+![point of](https://user-images.githubusercontent.com/114150400/203164100-d7fff0d5-12e4-42c0-93c6-bfd848829988.png)
+
+### The Point of No Return spectogram
+![point of 2](https://user-images.githubusercontent.com/114150400/203164262-5830b730-d1b8-45a0-b362-9316a5002e98.png)
+
+### The Phantom of the Opera waveform
+![phantom 1](https://user-images.githubusercontent.com/114150400/203164329-ffcd69a4-d48a-4ba1-a238-6bf42d41b286.png)
+
+### The Phantom of the Opera spectogram
+![phantom 2](https://user-images.githubusercontent.com/114150400/203164374-980c3043-7c51-4ffe-b616-218e45e9b42a.png)
 
