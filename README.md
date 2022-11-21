@@ -100,8 +100,8 @@ For this week, we had to identify 3 music tracks relating to our theme that idea
 
 | Track Title | Artist(s) | Composer | Copyright Info | Genre | Source | File/Audio format | Number of channels | Sample rate | Bits per second | Duration |
 | ------------| --------  | -------- | -------------- | ----- | ------ | ----------------- | ------------------ | ----------- | --------------- | -------- |
-| Prima Donna  | Dave     | Steve  || January  | Dave     | Steve  |
+| Notes / Prima Donna  | The 1987 Cast of The Phantom Of The Opera | AndreW Lloyd Webber | FIND | Ensemble Opera | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.10.+Andrew+Lloyd+Webber+-+Notes...+-+Prima+Donna.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
 | The Point of No Return | Gregg    | Karen  |
-| March    | Diane    | Jorge  |
+| The Phantom of the Opera    | Diane    | Jorge  |
 
 
