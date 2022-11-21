@@ -100,8 +100,18 @@ For this week, we had to identify 3 music tracks relating to our theme that idea
 
 | Track Title | Artist(s) | Composer | Copyright Info | Genre | Source | File/Audio format | Number of channels | Sample rate | Bits per second | Duration |
 | ------------| --------  | -------- | -------------- | ----- | ------ | ----------------- | ------------------ | ----------- | --------------- | -------- |
-| Notes / Prima Donna  | The 1987 Cast of The Phantom Of The Opera | Andrew Lloyd Webber | FIND | Ensemble Opera | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.10.+Andrew+Lloyd+Webber+-+Notes...+-+Prima+Donna.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
+| Notes/Prima Donna | The 1987 Cast of The Phantom Of The Opera | Andrew Lloyd Webber | FIND | Ensemble Opera | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.10.+Andrew+Lloyd+Webber+-+Notes...+-+Prima+Donna.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
 | The Point of No Return | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc2/02.06.+Andrew+Lloyd+Webber+-+The+Point+of+No+Return.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
 | The Phantom of the Opera | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.06.+Andrew+Lloyd+Webber+-+The+Phantom+of+the+Opera.flac) | .mp3 | 2 | 44100 Hz | 128 kb/s | 00:30 |
 
 After selecting the tracks and identifying the features, we then had to generate a waveform and a spectogram of each of the songs.
+
+![Notes/Prima Donna waveform](https://user-images.githubusercontent.com/114150400/203163988-09aed882-fd1d-44f3-b603-ed74a012d61e.png)
+!Notes/Prima Donna spectogram](https://user-images.githubusercontent.com/114150400/203164016-b521593b-9ec5-429b-aaf4-3ef2593c5de6.png)
+
+![The Point of No Return waveform](https://user-images.githubusercontent.com/114150400/203164100-d7fff0d5-12e4-42c0-93c6-bfd848829988.png)
+![The Point of No Return spectogram](https://user-images.githubusercontent.com/114150400/203164262-5830b730-d1b8-45a0-b362-9316a5002e98.png)
+
+![The Phantom of the Opera waveform](https://user-images.githubusercontent.com/114150400/203164329-ffcd69a4-d48a-4ba1-a238-6bf42d41b286.png)
+![The Phantom of the Opera spectogram](https://user-images.githubusercontent.com/114150400/203164374-980c3043-7c51-4ffe-b616-218e45e9b42a.png)
+
