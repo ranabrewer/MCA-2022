@@ -96,7 +96,7 @@ The tasks for this week involved creating a jSymbolic report for my encoded musi
 
 Week 8 
 
-For this week, we had to identify 3 music tracks relating to our theme that ideally differed in sound and style and list the mospt important technical and non-technical metadata associated with each track. This information has been listed below. 
+For this week, we had to identify 3 music tracks relating to our theme that ideally differed in sound and style and list the most important technical and non-technical metadata associated with each track. This information has been listed below. 
 
 | Track Title | Artist(s) | Composer | Copyright Info | Genre | Source | File/Audio format | Number of channels | Sample rate | Bits per second | Duration |
 | ------------| --------  | -------- | -------------- | ----- | ------ | ----------------- | ------------------ | ----------- | --------------- | -------- |
@@ -104,4 +104,4 @@ For this week, we had to identify 3 music tracks relating to our theme that idea
 | The Point of No Return | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc2/02.06.+Andrew+Lloyd+Webber+-+The+Point+of+No+Return.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
 | The Phantom of the Opera | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.06.+Andrew+Lloyd+Webber+-+The+Phantom+of+the+Opera.flac) | .mp3 | 2 | 44100 Hz | 128 kb/s | 00:30 |
 
-
+After selecting the tracks and identifying the features, we then had to generate a waveform and a spectogram of each of the songs.
