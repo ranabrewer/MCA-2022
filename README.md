@@ -101,7 +101,7 @@ For this week, we had to identify 3 music tracks relating to our theme that idea
 | Track Title | Artist(s) | Composer | Copyright Info | Genre | Source | File/Audio format | Number of channels | Sample rate | Bits per second | Duration |
 | ------------| --------  | -------- | -------------- | ----- | ------ | ----------------- | ------------------ | ----------- | --------------- | -------- |
 | Notes / Prima Donna  | The 1987 Cast of The Phantom Of The Opera | Andrew Lloyd Webber | FIND | Ensemble Opera | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.10.+Andrew+Lloyd+Webber+-+Notes...+-+Prima+Donna.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
-| The Point of No Return | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc2/02.06.+Andrew+Lloyd+Webber+-+The+Point+of+No+Return.flac) | .mp3 |
-| The Phantom of the Opera    | Diane    | Jorge  |
+| The Point of No Return | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc2/02.06.+Andrew+Lloyd+Webber+-+The+Point+of+No+Return.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
+| The Phantom of the Opera | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.06.+Andrew+Lloyd+Webber+-+The+Phantom+of+the+Opera.flac) | .mp3 | 2 | 44100 Hz | 128 kb/s | 00:30 |
 
 
