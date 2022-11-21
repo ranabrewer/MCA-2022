@@ -94,7 +94,7 @@ The tasks for this week involved creating a jSymbolic report for my encoded musi
 
 
 
-Week 8 
+# Week 8 
 
 For this week, we had to identify 3 music tracks relating to our theme that ideally differed in sound and style and list the most important technical and non-technical metadata associated with each track. This information has been listed below. 
 
