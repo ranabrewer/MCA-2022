@@ -128,7 +128,7 @@ It is fair to say that both waveform and time-frequency analysis have their own 
 
 # Week 9
 
-The tasks for this week involved selecting three tracks relating to our theme and generate Waveforms, Spectograms, Mel Frequency Cepstral Coefficients and Chromagrams for each in Sonic Visualiser. I chose Think of Me (the track I focused on in the first few weeks) as well as The Music of the Night and All I Ask of You The Spectograms, MFCCs and Chromagrams were then to be exported in CSV files and generate histograms of for each of these. 
+The tasks for this week involved selecting three tracks relating to our theme and generate Waveforms, Spectograms, Mel Frequency Cepstral Coefficients and Chromagrams for each in Sonic Visualiser. I chose Think of Me (the track I focused on in the first few weeks) as well as The Music of the Night and All I Ask of You The Spectograms, MFCCs and Chromagrams were then to be exported in CSV files and generate histograms for each of these. 
 
 ### Think of Me 
 ![Think of Me](https://user-images.githubusercontent.com/114150400/203173282-65abde0b-0f15-4238-ada1-907da056d655.PNG)
