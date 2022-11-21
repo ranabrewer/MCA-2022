@@ -96,7 +96,7 @@ The tasks for this week involved creating a jSymbolic report for my encoded musi
 
 # Week 8 
 
-For this week, we had to identify 3 music tracks relating to our theme that ideally differed in sound and style and list the most important technical and non-technical metadata associated with each track. This information has been listed below. 
+For this week, we had to identify 3 music tracks relating to our theme that ideally differed in sound and style and list the most important technical and non-technical metadata associated with each track. This information has been listed below. I selected three songs from The Phanton of the Opera which although are still all operatic, they differ in sound and vocals.
 
 | Track Title | Artist(s) | Composer | Copyright Info | Genre | Source | File/Audio format | Number of channels | Sample rate | Bits per second | Duration |
 | ------------| --------  | -------- | -------------- | ----- | ------ | ----------------- | ------------------ | ----------- | --------------- | -------- |
@@ -104,7 +104,7 @@ For this week, we had to identify 3 music tracks relating to our theme that idea
 | The Point of No Return | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc2/02.06.+Andrew+Lloyd+Webber+-+The+Point+of+No+Return.flac) | .mp3 | 2 | 44100 Hz | 320 kb/s | 00:30 |
 | The Phantom of the Opera | Michael Crawford and Sarah Brightman | Andrew Lloyd Webber | FIND | Operatic Duet | [Internet Archive](https://archive.org/details/cd_the-phantom-of-the-opera_andrew-lloyd-webber/disc1/01.06.+Andrew+Lloyd+Webber+-+The+Phantom+of+the+Opera.flac) | .mp3 | 2 | 44100 Hz | 128 kb/s | 00:30 |
 
-After selecting the tracks and identifying the features, we then had to generate a waveform and a spectogram of each of the songs.
+After selecting the tracks and identifying the features, we then had to generate a waveform and a spectogram of each of the songs via Sonic Visualiser.
 
 ### Prima Donna Waveform
 ![prima donna wav](https://user-images.githubusercontent.com/114150400/203163988-09aed882-fd1d-44f3-b603-ed74a012d61e.png)
@@ -127,3 +127,14 @@ After selecting the tracks and identifying the features, we then had to generate
 It is fair to say that both waveform and time-frequency analysis have their own benefits but there are certain advantages that the one can have over the other. Waveform analysis does allow for seeing the amplitude of the whole sample very clearly meaning that the distinction between dynamics is easy to see. In some instances this distinction in dynamics can translate to distinctions between musical passages which is also a benefit. However, there is not a lot else that waveform analysis can provide in such a clear manner. On the other hand, time-frequency analysis provides a clearer image of each distinct pitch and the timbre of each pitch which is something that waveform cannot as easily provide. Looking at The Phantom of the Opera's waveform, it is actually quite difficult to see any clear divide between passages because the dynamics stay generally the same within this sample m eaning there is little to be gained from the waveform analysis. However, looking at The Phantom of the Opera's spectogram, it is clear that this section of the song stays mainly within the lower register due to which which frequencies (and therefore which pitches) are lit. 
 
 # Week 9
+
+The tasks for this week involved selecting three tracks relating to our theme and generate Waveforms, Spectograms, Mel Frequency Cepstral Coefficients and Chromagrams for each in Sonic Visualiser. I chose Think of Me (the track I focused on in the first few weeks) as well as The Music of the Night and All I Ask of You The Spectograms, MFCCs and Chromagrams were then to be exported in CSV files and generate histograms of for each of these. 
+
+### Think of Me 
+![Think of Me](https://user-images.githubusercontent.com/114150400/203173282-65abde0b-0f15-4238-ada1-907da056d655.PNG)
+
+### The Music of the Night
+![Music of Night](https://user-images.githubusercontent.com/114150400/203173315-5cf58a52-679a-429c-a498-4c1eb67d3e37.PNG)
+
+### All I Ask of You
+![All I Ask](https://user-images.githubusercontent.com/114150400/203173345-0fc8b293-bd18-4a3a-a874-6fce672dd313.PNG)
