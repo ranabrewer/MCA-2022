@@ -12,10 +12,30 @@
             <respStmt>
                <resp>Encoded by</resp>
                <resp>Rana Brewer</resp>
+               <date>07-10-2022</date>
                </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-11-02" type="encoding-date">2022-11-02</date>
+            <publisher>
+               <corpName>University of Glasgow Information Studies</corpName>
+            </publisher>
+            <address>
+               <addrLine>
+                  <geogName>Glasgow</geogName>
+               </addrLine>
+               <addrLine>
+                  <geogName>United Kingdom</geogName>
+               </addrLine>
+            </address>
          </pubStmt>
+            <seriesStmt>
+               <title>Music Curation and Analytics Encoded Music Collection</title>
+               <editor>Rana Brewer</editor>
+               <identifier>MCA-2022</identifier>
+               <contents>
+                  <p>Think Of Me, Andrew Lloyd Webber</p>
+               </contents>
+            </seriesStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-ryy8x3">
          <appInfo xml:id="appinfo-16szutm">
