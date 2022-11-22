@@ -43,10 +43,15 @@ The second task required rendering the MEI file into verovio which can be viewed
 # Week 4
 
 The tasks for this week involved creating a jSymbolic report for my encoded music and then using this information to generate both a piano roll and pitch histogram of 'Think Of Me' using the Python notebook.
-[Phantom.csv](https://github.com/ranabrewer/MCA-2022/files/9929370/Phantom.csv)
+Here is a csv containing a variety of different information about the piece. [Phantom.csv](https://github.com/ranabrewer/MCA-2022/files/9929370/Phantom.csv)
 
+### Piano Scroll of Think Of Me
 
+![Think of me piano scroll](https://user-images.githubusercontent.com/114150400/203313306-fd2520b9-2e5f-48ab-99f5-aacbdfa95ca3.JPG)
 
+### Pitch Histogram of Think of Me
+
+![Think of Me histogram](https://user-images.githubusercontent.com/114150400/203313407-78f91828-c530-41a3-b880-c910f4e1667b.JPG)
 
 
 
