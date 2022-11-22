@@ -58,29 +58,16 @@ Here is a csv containing a variety of different information about the piece. [Ph
 ![Think of Me scatter](https://user-images.githubusercontent.com/114150400/203314055-e3baad6e-0c7a-414f-96ea-76788dcb04c2.JPG)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Week 5
 
+This week's tasks involved creating a metadata schema by listing different elements of our chosen song and then inserting that into our previously created MEI files. 
 
+INSERT METADATA TABLE HERE 
 
+The updated MEI file can be seen [here](https://github.com/ranabrewer/MCA-2022/blob/master/Lab%20Tasks/Week%203/Think%20of%20Me.mei)
 
-
-
-
-
-
+# Week 7                             
+              
 
 
 
