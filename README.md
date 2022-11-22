@@ -53,6 +53,9 @@ Here is a csv containing a variety of different information about the piece. [Ph
 
 ![Think of Me histogram](https://user-images.githubusercontent.com/114150400/203313407-78f91828-c530-41a3-b880-c910f4e1667b.JPG)
 
+### Scatter Plot of Think of Me
+
+![Think of Me scatter](https://user-images.githubusercontent.com/114150400/203314055-e3baad6e-0c7a-414f-96ea-76788dcb04c2.JPG)
 
 
 
