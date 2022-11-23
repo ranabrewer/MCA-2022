@@ -64,7 +64,7 @@ This week's tasks involved creating a metadata schema by listing different eleme
 
 INSERT METADATA TABLE HERE 
 
-The updated MEI file can be seen [here](https://github.com/ranabrewer/MCA-2022/blob/master/Lab%20Tasks/Week%203/Think%20of%20Me.mei)
+The updated MEI file can be seen [here](Lab Tasks/Week 5/Think of Me 2.mei)
 
 # Week 7                             
               
