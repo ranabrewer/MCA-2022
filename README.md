@@ -34,7 +34,7 @@ This week's task involved identifying a piece of music from our chosen dataset, 
 # Week 3
 
 There were two tasks to be completed this week. The first task required generating both MusicXML and MEI files of the transcription that was created last week. 
-The MusicXML file of 'Think Of Me' can be accessed [here]https://github.com/ranabrewer/MCA-2022/blob/d2e0db8dbd13ff049763c1fb6c451e070e913926/Lab%20Tasks/Week%203/Think%20of%20Me.musicxml) and the MEI file of 'Think Of Me' can be accessed [here](https://github.com/ranabrewer/MCA-2022/blob/28b7c8ccad3550168d1bf88163a4b2c2fb552f9a/Lab%20Tasks/Week%203/Think%20of%20Me%201.mei). 
+The MusicXML file of 'Think Of Me' can be accessed [here](https://github.com/ranabrewer/MCA-2022/blob/d2e0db8dbd13ff049763c1fb6c451e070e913926/Lab%20Tasks/Week%203/Think%20of%20Me.musicxml) and the MEI file of 'Think Of Me' can be accessed [here](https://github.com/ranabrewer/MCA-2022/blob/28b7c8ccad3550168d1bf88163a4b2c2fb552f9a/Lab%20Tasks/Week%203/Think%20of%20Me%201.mei). 
 
 The second task required rendering the MEI file into verovio which can be viewed [here](https://ranabrewer.github.io/MCA-2022/verovio.html). A screenshot of the verovio rendering can also be seen below.
 
