@@ -68,7 +68,9 @@ The updated MEI file can be seen [here](https://github.com/ranabrewer/MCA-2022/b
 
 # Week 7                             
               
+For this week, we had to go back to the edited MEI file from Week 5 and then complete the following two tasks. Firstly, update the MEI with any of the new information such as genre classification and licensing laws and then secondly, have the metadata appear on our HTML page with Verovio. 
 
+Here is a link to the updated [MEI file](https://ranabrewer.github.io/MCA-2022/myMeta.html) and attached below is a screenshot of the same page. 
 
 
 
