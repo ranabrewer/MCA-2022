@@ -14,6 +14,7 @@
                <date>07-10-2022</date>
                </respStmt>
          </titleStmt>
+         <extent unit="Kbytes">284</extent>
          <editionStmt>
             <title>Andrew Lloyd Webber's The Phantom of the Opera - Piano Solos</title>
          </editionStmt>
@@ -38,6 +39,10 @@
                   <p>Think Of Me, Andrew Lloyd Webber</p>
                </contents>
             </seriesStmt>
+         <notesStmt>
+            <annot>Genre-Musical</annot>
+            <annot>Requires performance license from the ALW website and is a copyrighted work</annot>
+         </notesStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-ryy8x3">
          <appInfo xml:id="appinfo-16szutm">
@@ -47,6 +52,17 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change n="1">
+         <respStmt>
+            <persName>Rana Brewer</persName>
+         </respStmt>
+            <changeDesc>
+               <p>Included genre classification and licensing laws</p>
+            </changeDesc>
+            <date isodate="2022-12-11"></date>
+         </change>
+      </revisionDesc>    
    </meiHead>
    <music>
       <body>
