@@ -14,7 +14,7 @@
                <date>07-10-2022</date>
                </respStmt>
          </titleStmt>
-         <extent unit="Kbytes">284</extent>
+         <extent>284 kilobytes</extent>
          <editionStmt>
             <title>Andrew Lloyd Webber's The Phantom of the Opera - Piano Solos</title>
          </editionStmt>
@@ -41,6 +41,7 @@
             </seriesStmt>
          <notesStmt>
             <annot>Genre-Musical</annot>
+            
             <annot>Requires performance license from the ALW website and is a copyrighted work</annot>
          </notesStmt>
       </fileDesc>
