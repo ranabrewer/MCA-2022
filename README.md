@@ -72,24 +72,7 @@ For this week, we had to go back to the edited MEI file from Week 5 and then com
 
 Here is a link to the updated [MEI file](https://ranabrewer.github.io/MCA-2022/myMeta.html) and attached below is a screenshot of the same page. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![think of me updated MEI](https://user-images.githubusercontent.com/114150400/207078151-d60e451a-5b5d-44b0-be38-0511b8b2a865.png)
 
 # Week 8 
 
